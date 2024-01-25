@@ -11,3 +11,5 @@
 
 # Build app to file .exe for windows:
 pyinstaller main.py --onefile --noconsole --icon="data/iconapp.ico"
+
+Copyright belongs to lato' channel https://youtube.com/@latochannel?si=_XEGFFR4WJ5wwKJb
